@@ -29,8 +29,8 @@ public class BlocController {
     }
 
     IBlocService blocService;
-
-    @GetMapping("/retrieveBlocs")
+ae
+    @GzetMapping("/retrieveBlocs")
     public List<Bloc> retrieveBlocs() {
         return blocService.retrieveBlocs();
     }
