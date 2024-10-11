@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.Set;
 
 @Entity
-@G_etter
+@Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
